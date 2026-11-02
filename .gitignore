@@ -1,0 +1,14 @@
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Binary data files
+*.dat
+
+# Virtual environment
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
